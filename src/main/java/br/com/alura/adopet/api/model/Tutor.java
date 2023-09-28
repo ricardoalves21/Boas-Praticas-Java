@@ -32,7 +32,8 @@ public class Tutor {
     @Column(name = "email")
     private String email;
 
-    @OneToMany(mappedBy = "tutor", fetch = FetchType.EAGER)
+    // Os relacionamentos 'ToMany' são por padrão 'LAZY' ou seja carrega somente quando o campo é chamado na consulta.
+    @OneToMany(mappedBy = "tutor")
     @JsonManagedReference("tutor_adocoes")
     private List<Adocao> adocoes;
 
