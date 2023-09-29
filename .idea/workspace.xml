@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3407a74-4728-48f2-87c1-9d33aa023441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/rical.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/validacoes/ValidacaoPetAdocaoEmAndamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/validacoes/ValidacaoPetDisponivel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/validacoes/ValidacaoSolicitacaoAdocao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/validacoes/ValidacaoTutorComAdocaoEmAndamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/validacoes/ValidacaoTutorComLimiteDeAdocoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adopet-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adopet-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Adocao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Adocao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Tutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Tutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/repository/AdocaoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/repository/AdocaoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/service/AdocaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/service/AdocaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +45,10 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
     "Notification.DoNotAsk-Vcs Notifications": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -98,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695904159145</updated>
-      <workItem from="1695904164673" duration="9520000" />
+      <workItem from="1695904164673" duration="11513000" />
     </task>
     <servers />
   </component>

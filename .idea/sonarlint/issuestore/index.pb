@@ -1,0 +1,23 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+m
+=src/main/java/br/com/alura/adopet/api/model/StatusAdocao.java,8/6/86a040dfa5d869a1ccb405f93488d5822de153a5
+f
+6src/main/java/br/com/alura/adopet/api/model/Tutor.java,7/7/77590fe630a0d00de632df5b4cf9728dee4680f5
+|
+Lsrc/main/java/br/com/alura/adopet/api/validacoes/ValidacaoPetDisponivel.java,5/c/5cb6cc152915c658a55de432dac66e5df6730690
+€
+Psrc/main/java/br/com/alura/adopet/api/validacoes/ValidacaoSolicitacaoAdocao.java,2/1/216025c8cdb8a748f730f86760a5c8a72a561f41
+ˆ
+Xsrc/main/java/br/com/alura/adopet/api/validacoes/ValidacaoTutorComAdocaoEmAndamento.java,3/c/3c2392078f5349d9963ef5ba8d4b8fc440560cf3
+v
+Fsrc/main/java/br/com/alura/adopet/api/repository/AdocaoRepository.java,1/f/1fbe2606feaf7da66efa1a70aff815a574391418
+†
+Vsrc/main/java/br/com/alura/adopet/api/validacoes/ValidacaoTutorComLimiteDeAdocoes.java,1/3/13734c952e12812f283619d984e91f88b24d2ae4
+ƒ
+Ssrc/main/java/br/com/alura/adopet/api/validacoes/ValidacaoPetAdocaoEmAndamento.java,a/9/a9f916edf0ad99b478edefb8efdcc8c1b2e916c5
+g
+7src/main/java/br/com/alura/adopet/api/model/Adocao.java,d/e/de3988deacf9cd0fdef78b8d2151af293b35cdc1
+p
+@src/main/java/br/com/alura/adopet/api/service/AdocaoService.java,b/c/bc8bdc6d9fc3b02e984884e85cce98bd95f887ca
