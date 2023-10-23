@@ -5,7 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3407a74-4728-48f2-87c1-9d33aa023441" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06ff83623950bc02d669f8cbe0e4905bcb539e94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12f804de0e38a570ab5048ba94609b9f20e50b49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26c12355bb7a536c65b7769b28473dbb3726a84d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2deee4f34f378c9487cddafd4b561c4ddbac21e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c816670789e8f314fbd292a311293ad46c54516" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccdf502c5fc5411c3da24bff0d16e14ebadd781c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eea3f3de66458f2c15612a5b4b936747bc4d9180" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/6/06ff83623950bc02d669f8cbe0e4905bcb539e94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/2/12f804de0e38a570ab5048ba94609b9f20e50b49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26c12355bb7a536c65b7769b28473dbb3726a84d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2deee4f34f378c9487cddafd4b561c4ddbac21e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/c/3c816670789e8f314fbd292a311293ad46c54516" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/ccdf502c5fc5411c3da24bff0d16e14ebadd781c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/e/eea3f3de66458f2c15612a5b4b936747bc4d9180" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/CadastrarAbrigoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/CadastrarPetDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/DadosDetalhamentoAbrigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/DadosPet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/ListarAbrigoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/service/AbrigoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c2392078f5349d9963ef5ba8d4b8fc440560cf3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c2392078f5349d9963ef5ba8d4b8fc440560cf3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cb6cc152915c658a55de432dac66e5df6730690" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cb6cc152915c658a55de432dac66e5df6730690" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9f916edf0ad99b478edefb8efdcc8c1b2e916c5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9f916edf0ad99b478edefb8efdcc8c1b2e916c5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adopet-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adopet-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AbrigoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AbrigoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AdocaoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AdocaoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Abrigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Abrigo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Adocao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Adocao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Tutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Tutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/controller/AbrigoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/controller/AdocaoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/controller/AdocaoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Abrigo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Adocao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Adocao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Tutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Tutor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +64,8 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -26,10 +75,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2W1dieqkNfupW15iUUg5b2tKl2o" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,30 +89,38 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
-    "Notification.DoNotAsk-Vcs Notifications": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/rical/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rical/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.adopet.api.dto" />
+      <recent name="br.com.alura.adopet.api.model" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.adopet.api.service" />
+      <recent name="br.com.alura.adopet.api.dto" />
       <recent name="br.com.alura.adopet.api.validacoes" />
     </key>
   </component>
@@ -86,10 +143,32 @@
       <option name="presentableId" value="Default" />
       <updated>1695904159145</updated>
       <workItem from="1695904164673" duration="11513000" />
+      <workItem from="1696784671227" duration="333000" />
+      <workItem from="1696785021073" duration="435000" />
+      <workItem from="1696785659619" duration="2758000" />
+      <workItem from="1696896150398" duration="4072000" />
+      <workItem from="1696941051039" duration="171000" />
+      <workItem from="1697030601501" duration="8034000" />
+      <workItem from="1697077208458" duration="1390000" />
+      <workItem from="1697119919052" duration="3220000" />
+      <workItem from="1697302938869" duration="11043000" />
+      <workItem from="1697486214702" duration="4821000" />
+      <workItem from="1697636776367" duration="1409000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

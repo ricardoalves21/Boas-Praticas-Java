@@ -1,0 +1,14 @@
+
+^
+java:S1128"ARemove this unused import 'br.com.alura.adopet.api.model.Adocao'.(ğ±î‹8ûèÚ¹±1
+`
+java:S1128">Remove this unused import 'br.com.alura.adopet.api.model.Pet'.(…ĞË«úÿÿÿÿ8üèÚ¹±1
+b
+java:S1128"@Remove this unused import 'br.com.alura.adopet.api.model.Tutor'.(ÂÊ¾«ùÿÿÿÿ8üèÚ¹±1
+j
+java:S1128
+"MRemove this unused import 'br.com.alura.adopet.api.repository.PetRepository'.(óôÆš8ıèÚ¹±1
+q
+java:S1128"ORemove this unused import 'br.com.alura.adopet.api.repository.TutorRepository'.(ƒ¼âåúÿÿÿÿ8şèÚ¹±1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿèÚ¹±1
