@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3407a74-4728-48f2-87c1-9d33aa023441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06ff83623950bc02d669f8cbe0e4905bcb539e94" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12f804de0e38a570ab5048ba94609b9f20e50b49" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26c12355bb7a536c65b7769b28473dbb3726a84d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2deee4f34f378c9487cddafd4b561c4ddbac21e1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c816670789e8f314fbd292a311293ad46c54516" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccdf502c5fc5411c3da24bff0d16e14ebadd781c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eea3f3de66458f2c15612a5b4b936747bc4d9180" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/6/06ff83623950bc02d669f8cbe0e4905bcb539e94" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/2/12f804de0e38a570ab5048ba94609b9f20e50b49" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26c12355bb7a536c65b7769b28473dbb3726a84d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2deee4f34f378c9487cddafd4b561c4ddbac21e1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/c/3c816670789e8f314fbd292a311293ad46c54516" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/ccdf502c5fc5411c3da24bff0d16e14ebadd781c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/e/eea3f3de66458f2c15612a5b4b936747bc4d9180" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/CadastrarAbrigoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/CadastrarPetDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/DadosDetalhamentoAbrigo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/DadosPet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/dto/ListarAbrigoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/service/AbrigoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c2392078f5349d9963ef5ba8d4b8fc440560cf3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c2392078f5349d9963ef5ba8d4b8fc440560cf3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cb6cc152915c658a55de432dac66e5df6730690" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cb6cc152915c658a55de432dac66e5df6730690" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9f916edf0ad99b478edefb8efdcc8c1b2e916c5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9f916edf0ad99b478edefb8efdcc8c1b2e916c5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adopet-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adopet-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AbrigoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AbrigoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AdocaoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/controller/AdocaoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Abrigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Abrigo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Adocao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Adocao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Tutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/adopet/api/model/Tutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/controller/AbrigoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/controller/AdocaoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/controller/AdocaoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Abrigo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Adocao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Adocao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Tutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/adopet/api/model/Tutor.class" afterDir="false" />
-    </list>
+    <list default="true" id="b3407a74-4728-48f2-87c1-9d33aa023441" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +105,7 @@
       <workItem from="1697302938869" duration="11043000" />
       <workItem from="1697486214702" duration="4821000" />
       <workItem from="1697636776367" duration="1409000" />
+      <workItem from="1698090123925" duration="38000" />
     </task>
     <servers />
   </component>
